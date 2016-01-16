@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=ESC_4x30A\iCopter_Megadrone_ESC_4x30A.PrjPCB
+[Project2]
+ProjectPath=ESC_30A\iCopter_Megadrone_ESC_30A.PrjPcb
+[Project3]
+ProjectPath=FlightCtrl\iCopter_Megadrone_FlightCtrl.PrjPCB
+[Project4]
+ProjectPath=StabyCam\iCopter_Megadrone_StabyCam.PrjPCB
